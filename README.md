@@ -13,4 +13,5 @@
 **BATCH DURATION**: 15-Jul-2025 to 14-Aug-2025
 
 # OUTPUT FOR TASK 3:
-![WhatsApp Image 2025-07-15 at 10 19 43_4535f893](https://github.com/user-attachments/assets/743d8315-7e80-4ba0-8aa1-81bc123781fa)
+<img width="1920" height="1020" alt="Welcome To Colab - Colab - Google Chrome 16-07-2025 18_47_26" src="https://github.com/user-attachments/assets/02a52e87-5d20-4ccc-ba15-cbbed86ceb47" />
+
